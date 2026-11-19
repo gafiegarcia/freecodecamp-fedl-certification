@@ -1,0 +1,11 @@
+[
+  {
+    "label": "node scratchpad",
+    "command": "node",
+    "args": ["$ZED_FILE"],
+    "reveal": "no_focus",
+    "show_command": false,
+    "show_summary": false,
+    "reveal_target": "center",
+  },
+]
